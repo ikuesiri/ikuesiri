@@ -12,7 +12,7 @@ I'm an Aspiring Software Engineer and Content Creator,build useful [open-source 
 - 🌱 I’m currently learning JavaScript, Nodesjs, and Python.
 - 😊 I’m looking for contribute and explore open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtoikuesiri.onosemuode@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing ikuesiri.onosemuode@gmail.com.
 
 ---
 
