@@ -8,11 +8,11 @@ I'm an Aspiring Software Engineer and Content Creator,build useful [open-source 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 👨🏼‍🎓  AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Nodesjs, and Python.
 - 😊 I’m looking for contribute and explore open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing ikuesiri.onosemuode@gmail.com.
+- 💼 Job interests: Software Engineering.
+- 📫 You can [view my portfolio](https://kola-ikuesiri.netlify.app/) and contact me by emailing ikuesiri.onosemuode@gmail.com.
 
 ---
 
