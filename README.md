@@ -9,9 +9,9 @@ I'm an Aspiring Software Engineer and Content Creator,build useful [open-source 
 
 - 😊 Pronouns: He/him
 - 👨🏼‍🎓  AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Nodesjs, and Python.
-- 😊 I’m looking for contribute and explore open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineering.
+- 🔳  Data Analyst
+- 😊 I’m looking for contribute and explore open source projects, hackathons, internships, and job opportunities.
+- 💼 Job interests: Data Analyst, BI Analyst, Performance Analyst etc.
 - 📫 You can [view my portfolio](https://kola-ikuesiri.netlify.app/) and contact me by emailing ikuesiri.onosemuode@gmail.com.
 
 ---
