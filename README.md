@@ -1,4 +1,6 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/im...)]
+[![MasterHead](https://learnerbits.com/wp-content/uploads/2023/10/data-analysis-1024x576.webp)]
+
+
 <h2 align="center">Hi 👋, I'm Kola Ikuesiri </h2>
 <h4 align="left">A passionate Data Analyst, I am Proficient in Data Visualization, Reporting, Dashboarding, and Insight analysis with hands-on experience in SQL, Excel, Power BI, and Tableau. Honing strong analytical skills, decision-making, and problem-solving abilities with a learning mindset and proactive approach.</h4>
 
