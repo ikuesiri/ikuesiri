@@ -1,4 +1,6 @@
-<img src="https://learnerbits.com/wp-content/uploads/2023/10/data-analysis-1024x576.webp" width="300">
+<p align="center">
+  <img src="https://learnerbits.com/wp-content/uploads/2023/10/data-analysis-1024x576.webp" width="350">
+</p>
 
 
 <h2 align="center">Hi 👋, I'm Kola Ikuesiri </h2>
