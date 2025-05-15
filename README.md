@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ikuesiri onosemuode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikuesiri onosemuode" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/kola-ikuesiri-o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikuesiri onosemuode" height="30" width="40" /></a>
 <a href="https://kaggle.com/ikuesirionosemuode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ikuesirionosemuode" height="30" width="40" /></a>
 <a href="https://fb.com/onosemuode ikuesiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="onosemuode ikuesiri" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ikuesiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ikuesiri" height="30" width="40" /></a>
